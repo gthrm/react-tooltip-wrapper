@@ -8,6 +8,6 @@
 </Tooltip>
 ```
 
-- Example:
+- [Example](https://cdroma.ru/react-tooltip-wrapper/):
 
 ![](./source/img.png)
